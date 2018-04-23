@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             string name = Console.ReadLine();
+            //is see that input user
         }
     }
 }
