@@ -14,6 +14,7 @@ namespace ConsoleApp1
             string name = Console.ReadLine();
             //is see that input user
             //i also see that one
+            // i added feature1
         }
     }
 }
